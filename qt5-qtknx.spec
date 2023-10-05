@@ -8,12 +8,12 @@
 Summary:	The Qt5 Knx library
 Summary(pl.UTF-8):	Biblioteka Qt5 Knx
 Name:		qt5-%{orgname}
-Version:	5.15.10
+Version:	5.15.11
 Release:	1
 License:	GPL v3+ or commercial
 Group:		Libraries
 Source0:	https://download.qt.io/official_releases/qt/5.15/%{version}/submodules/%{orgname}-everywhere-opensource-src-%{version}.tar.xz
-# Source0-md5:	e690290bfcce35ea7950dc921caef417
+# Source0-md5:	b0ce6c20a6b501aa134b0ab868c47b06
 URL:		https://www.qt.io/
 BuildRequires:	Qt5Core-devel >= %{qtbase_ver}
 BuildRequires:	Qt5Network-devel >= %{qtbase_ver}
